@@ -213,3 +213,4 @@ Returns a single payment object
     updated_at: "2015-02-16T03:05:21.810Z"
     }
 ```
+

@@ -1,4 +1,4 @@
-# Our House Server - API
+# Our House - Server side (API)
 
 **Rails version 4.2.0**
 
